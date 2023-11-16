@@ -1,0 +1,54 @@
+.section__one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+   margin-left: 30px;
+}
+.contact__{
+    background-color: red;
+    color: white;
+} 
+.section__two{
+    margin-left: 30px;
+}
+.section__three{
+     background-color: blue;
+     color: black;
+     border-radius: 6px;
+     margin-left: 30px;
+     display: inline-block;
+     vertical-align: top ;
+     
+
+
+}
+ 
+ 
+.ul__{
+    list-style: none;
+  
+}
+ 
+.section__four{
+    background-color: orange;
+    color: black;
+    padding:10px;
+    margin-left: 30px;
+    border-radius: 6px;
+    display: inline-block;
+
+     
+    
+}
+
+ 
+ .section__five{
+    background-color: black;
+    color: white;
+    padding:10px;
+    margin-left: 30px;
+    margin-top: 20px;
+ }
+ .socialmedia__{
+    color: #FF7A00;
+ }
